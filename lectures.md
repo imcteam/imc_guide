@@ -11,5 +11,5 @@ https://web.stanford.edu/class/archive/ee/ee392m/ee392m.1056/
 
 ### 控制
 
-MIT 《Principles of Optimal Control》
+- MIT 《Principles of Optimal Control》
 https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-323-principles-of-optimal-control-spring-2008/index.htm
